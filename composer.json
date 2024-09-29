@@ -1,0 +1,6 @@
+{
+    "require": {
+        "econea/nusoap": "^0.9.17",
+        "phpmailer/phpmailer": "^6.9"
+    }
+}
